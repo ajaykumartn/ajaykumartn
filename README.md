@@ -1,5 +1,5 @@
 
-### Hi there, I'm Ajay Kumar 👋(Banlore, Karnataka, India)
+### Hi there, I'm Ajay Kumar 👋(Bangalore, Karnataka, India)
 
 I'm a third-year **B.Tech Computer Science and Engineering student** with a major in **Artificial Intelligence and Machine Learning**. I'm passionate about building and deploying intelligent systems that solve real-world problems.
 
