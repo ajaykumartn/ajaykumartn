@@ -1,8 +1,5 @@
-Here is a more detailed version based on the projects and interests you've shared with me. This version is more descriptive and can help people understand your skills and passions at a glance.
 
----
-
-### Hi there, I'm Ajay Kumar 👋
+### Hi there, I'm Ajay Kumar 👋(Banlore, Karnataka, India)
 
 I'm a third-year **B.Tech Computer Science and Engineering student** with a major in **Artificial Intelligence and Machine Learning**. I'm passionate about building and deploying intelligent systems that solve real-world problems.
 
